@@ -1,4 +1,4 @@
-# In accident-data-visualization steps involed in project 
+# steps involved in project accident-data-visualization
 step1: Data Collection: Gather comprehensive data on road accidents from various sources such as police reports, hospital records, insurance claims, traffic cameras, and other relevant sources. Ensure that the data collected is accurate, consistent, and covers a significant period to identify patterns and trends.
 
 step 2:Data Cleaning and Preprocessing: Clean the collected data to remove any inconsistencies, missing values, duplicates, or errors. Preprocess the data by standardizing formats, converting data types, and handling outliers if necessary.
